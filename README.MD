@@ -9,4 +9,3 @@
 
 
 
-[MachineLearningQuickGuide[IMAGES]](https://github.com/rahulvaish/ReferenceDocuments/tree/master/QuickGuide%5BIMAGES%5D/MachineLearningQuickGuide%5BIMAGES%5D)
