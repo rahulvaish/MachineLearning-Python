@@ -41,13 +41,26 @@ This repository contains Machine Learning Analysis examples.
 <hr>
 
 - ###### [Pivot Tables](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling)
+   ###### This example explains the concept of Pivot Tables.
+   * Load the data[schools_with_btoilet.csv/schools_with_gtoilet.csv]
+   * Apply Panda's Pivot Method
+   ![image](https://user-images.githubusercontent.com/689226/50417338-d9bb2200-084b-11e9-95bc-66772b346dd1.png)
 
 
 
 <hr>
 
 - ###### [Data Visualization](https://github.com/rahulvaish/MachineLearning-Python/tree/DataVisualization)
-
+   ###### This branch contains example which explains how to Visualize data in various forms of Graphs. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/DataVisualization)
+   
+  * Pair Plot
+  * Line Graph
+  * Histo Graph
+  * Bar Plot
+  * Scatter Plots
+  * Box Plots
+  * Heat Maps
+  
 
 
 
