@@ -18,10 +18,11 @@ This repository contains Machine Learning Analysis examples.
 - ###### [Analysis on Titanic Dataset](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
    ###### This example is analysis on Titanic Dataset. [[source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
   * Load the data[titanic.csv]
+  * Clean and Prepare Data
+  * Create Sparse Matrix 
   * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
    **Train+Test** looks like:</br>
     ![image](https://user-images.githubusercontent.com/689226/50421573-f022a700-0866-11e9-8afa-c0d9ddd45ed9.png)
-  * Create Sparse Matrix 
   * Apply ML Model
   * Make Prediction
   * Cross Validate
@@ -31,6 +32,7 @@ This repository contains Machine Learning Analysis examples.
 - ###### [Analysis on IRIS Dataset](https://github.com/rahulvaish/MachineLearning-Python/tree/IRIS)
    ###### This example is analysis on IRIS Dataset. [[source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/IRIS)
   * Load the data[iris.csv]
+  * Clean and Prepare Data
   * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
     **Refer above for (Train+Test) representation** 
   * Create Sparse Matrix 
@@ -44,8 +46,15 @@ This repository contains Machine Learning Analysis examples.
 - ###### [Analysis on House Price Dataset](https://github.com/rahulvaish/MachineLearning-Python/tree/HousePriceCompetition)
    ###### This example is analysis on House Price Dataset.[[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/HousePriceCompetition)
    * Load the data[HousePricingTutorial.csv] 
-   * 
-   
+   * Normalize
+   * Analyse Correlation
+   * Clean and Prepare Data
+   * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
+    **Refer above for (Train+Test) representation** 
+   * Apply ML Model
+   * Make Prediction
+   * Cross Validate
+   * Make Prediction   
 <hr>
 
 - ###### [Data Cleaning](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/DataCleaning)
