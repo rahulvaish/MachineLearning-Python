@@ -16,7 +16,7 @@ This repository contains Machine Learning Analysis examples.
 
 
 - ###### [Analysis on Titanic Dataset](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
-   ###### This example is analysis on Titanic Dataset.
+   ###### This example is analysis on Titanic Dataset. [[source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
   * Load the data[titanic.csv]
   * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
    **Train+Test** looks like:</br>
@@ -29,7 +29,7 @@ This repository contains Machine Learning Analysis examples.
 <hr>
 
 - ###### [Analysis on IRIS Dataset](https://github.com/rahulvaish/MachineLearning-Python/tree/IRIS)
-   ###### This example is analysis on IRIS Dataset.
+   ###### This example is analysis on IRIS Dataset. [[source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/IRIS)
   * Load the data[iris.csv]
   * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
     **Refer above for (Train+Test) representation** 
@@ -42,11 +42,14 @@ This repository contains Machine Learning Analysis examples.
 <hr>
 
 - ###### [Analysis on House Price Dataset](https://github.com/rahulvaish/MachineLearning-Python/tree/HousePriceCompetition)
-
+   ###### This example is analysis on House Price Dataset.[[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/HousePriceCompetition)
+   * Load the data[HousePricingTutorial.csv] 
+   * 
+   
 <hr>
 
-- ###### [Data Cleaning](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling)
-   ###### This example explains various methods of cleaning Data.
+- ###### [Data Cleaning](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/DataCleaning)
+   ###### This example explains various methods of cleaning Data. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/DataCleaning) 
   * Load the data[Loan.csv]
   * Column selection in Dataframe
   * Dropping off Useless Columns
@@ -61,8 +64,8 @@ This repository contains Machine Learning Analysis examples.
   
 <hr>
 
-- ###### [Data Consolidation](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling)
-   ###### This example explains various methods of consolidating Data.
+- ###### [Data Consolidation](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/DataConsolidation)
+   ###### This example explains various methods of consolidating Data. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/DataConsolidation)
   * Concatinating Dataframe 
   * Appending Dataframe 
   * Joining Dataframe 
@@ -71,13 +74,13 @@ This repository contains Machine Learning Analysis examples.
 
 <hr>
 
-- ###### [MySQL and Pandas](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling)
-   ###### This example explains the connectivity between MySQL and Pandas.
+- ###### [MySQL and Pandas](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/MySQL%2BPandas)
+   ###### This example explains the connectivity between MySQL and Pandas. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/MySQL%2BPandas)
    
 <hr>
 
-- ###### [Pivot Tables](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling)
-   ###### This example explains the concept of Pivot Tables.
+- ###### [Pivot Tables](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/PivotTables)
+   ###### This example explains the concept of Pivot Tables. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/PivotTables)
    * Load the data[schools_with_btoilet.csv/schools_with_gtoilet.csv]
    * Apply Panda's Pivot Method </br>
    ![image](https://user-images.githubusercontent.com/689226/50417338-d9bb2200-084b-11e9-95bc-66772b346dd1.png)
