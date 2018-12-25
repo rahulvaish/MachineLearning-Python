@@ -17,7 +17,7 @@ This repository contains Machine Learning Analysis examples.
 
 - ###### [Analysis on Titanic Dataset](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
    ###### This example is analysis on Titanic Dataset.
-  * Load the data[iris.csv]
+  * Load the data[titanic.csv]
   * Split Dataframe as (Train+Test)+(Untouched - Target)
   * Create Sparse Matrix 
   * Apply ML Model
