@@ -29,15 +29,34 @@ This repository contains Machine Learning Analysis examples.
 <hr>
 
 - ###### [Data Cleaning](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling)
-
+   ###### This example explains various methods of cleaning Data.
+  * Load the data[Loan.csv]
+  * Column selection in Dataframe
+  * Dropping off Useless Columns
+  * Converting Non-Numerical Columns into Numerical Columns
+  * Determining Null Values
+  * Filtering Data on Threshold Benchmark
+  * Handling Missing Values
+  * Queries on Dataframe
+  * Split Dataframe Column Values
+  * Data Replacment
+  
+  
 <hr>
 
 - ###### [Data Consolidation](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling)
+   ###### This example explains various methods of consolidating Data.
+  * Concatinating Dataframe 
+  * Appending Dataframe 
+  * Joining Dataframe 
+  * Merging Dataframe 
+   
 
 <hr>
 
 - ###### [MySQL and Pandas](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling)
-
+   ###### This example explains the connectivity between MySQL and Pandas.
+   
 <hr>
 
 - ###### [Pivot Tables](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling)
