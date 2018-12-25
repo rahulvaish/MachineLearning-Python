@@ -1,11 +1,53 @@
-# **Branch Contents:**
+This repository contains Machine Learning Analysis examples.
 
-##### [1] [Titanic](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic) :  ML/Analysis work on Titanic Dataset. 
-##### [2] [IRIS](https://github.com/rahulvaish/MachineLearning-Python/tree/IRIS) :  ML/Analysis work on IRIS Dataset.
-##### [3] [HousePriceCompetition](https://github.com/rahulvaish/MachineLearning-Python/tree/HousePriceCompetition) :   ML/Analysis work on House Price Dataset.
-![image](https://user-images.githubusercontent.com/689226/49732069-5c1be180-fca3-11e8-980d-53609e94345d.png)
-##### [4] [DataWrangling](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling) : Ways to clean Data.
-##### [5] [DataVisualization](https://github.com/rahulvaish/MachineLearning-Python/tree/DataVisualization) : Ways to present and visualize Data.
-![image](https://user-images.githubusercontent.com/689226/49732105-7c4ba080-fca3-11e8-98b4-6da0109bd5d0.png)
+### Table of Contents
+- <a href='#analysis-on-titanic-dataset'>Analysis-Titanic Dataset</a> 
+- <a href='#analysis-on-iris-dataset'>Analysis-IRIS Dataset</a> 
+- <a href='#analysis-on-house-price-dataset'>Analysis-HousePrice Dataset</a> 
+- <a href='#data-wrangling'>Data Wrangling</a> 
+  - <a href='#data-cleaning'>Data Cleaning</a> 
+  - <a href='#data-consolidation'>Data Consolidation</a> 
+  - <a href='#mysql-and-pandas'>MySQL and Pandas</a> 
+  - <a href='#pivot-tables'>Pivot Tables</a> 
+- <a href='#data-visualization'>Data Visualization</a> 
+
+  
+<hr>
+
+
+- ###### [Analysis on Titanic Dataset](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
+
+<hr>
+
+- ###### [Analysis on IRIS Dataset](https://github.com/rahulvaish/MachineLearning-Python/tree/IRIS)
+
+
+<hr>
+
+- ###### [Analysis on House Price Dataset](https://github.com/rahulvaish/MachineLearning-Python/tree/HousePriceCompetition)
+
+<hr>
+
+- ###### [Data Cleaning](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
+
+<hr>
+
+- ###### [Data Consolidation](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
+
+<hr>
+
+- ###### [MySQL and Pandas](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
+
+<hr>
+
+- ###### [Pivot Tables](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
+
+
+
+<hr>
+
+- ###### [Data Visualization](https://github.com/rahulvaish/MachineLearning-Python/tree/DataVisualization)
+
+
 
 
