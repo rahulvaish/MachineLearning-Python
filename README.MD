@@ -16,11 +16,25 @@ This repository contains Machine Learning Analysis examples.
 
 
 - ###### [Analysis on Titanic Dataset](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
-
+   ###### This example is analysis on Titanic Dataset.
+  * Load the data[iris.csv]
+  * Split Dataframe as (Train+Test)+(Untouched - Target)
+  * Create Sparse Matrix 
+  * Apply ML Model
+  * Make Prediction
+  * Cross Validate
+  * Make Prediction
 <hr>
 
 - ###### [Analysis on IRIS Dataset](https://github.com/rahulvaish/MachineLearning-Python/tree/IRIS)
-
+   ###### This example is analysis on IRIS Dataset.
+  * Load the data[iris.csv]
+  * Split Dataframe as (Train+Test)+(Untouched - Target)
+  * Create Sparse Matrix 
+  * Apply ML Model
+  * Make Prediction
+  * Cross Validate
+  * Make Prediction
 
 <hr>
 
@@ -38,8 +52,8 @@ This repository contains Machine Learning Analysis examples.
   * Filtering Data on Threshold Benchmark
   * Handling Missing Values
   * Queries on Dataframe
-  * Split Dataframe Column Values
-  * Data Replacment
+  * Split Dataframe Column Values[Example: Date]
+  * Data Replacment-Unary|Binary|Sparse
   
   
 <hr>
