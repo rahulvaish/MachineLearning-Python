@@ -32,8 +32,7 @@ This repository contains Machine Learning Analysis examples.
    ###### This example is analysis on IRIS Dataset.
   * Load the data[iris.csv]
   * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
-    **Train+Test** looks like:</br>
-    ![image](https://user-images.githubusercontent.com/689226/50421573-f022a700-0866-11e9-8afa-c0d9ddd45ed9.png)
+    **Refer above for (Train+Test) representation** 
   * Create Sparse Matrix 
   * Apply ML Model
   * Make Prediction
