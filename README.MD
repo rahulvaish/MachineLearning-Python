@@ -43,7 +43,7 @@ This repository contains Machine Learning Analysis examples.
 - ###### [Pivot Tables](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling)
    ###### This example explains the concept of Pivot Tables.
    * Load the data[schools_with_btoilet.csv/schools_with_gtoilet.csv]
-   * Apply Panda's Pivot Method
+   * Apply Panda's Pivot Method </br>
    ![image](https://user-images.githubusercontent.com/689226/50417338-d9bb2200-084b-11e9-95bc-66772b346dd1.png)
 
 
