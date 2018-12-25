@@ -28,19 +28,19 @@ This repository contains Machine Learning Analysis examples.
 
 <hr>
 
-- ###### [Data Cleaning](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
+- ###### [Data Cleaning](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling)
 
 <hr>
 
-- ###### [Data Consolidation](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
+- ###### [Data Consolidation](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling)
 
 <hr>
 
-- ###### [MySQL and Pandas](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
+- ###### [MySQL and Pandas](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling)
 
 <hr>
 
-- ###### [Pivot Tables](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
+- ###### [Pivot Tables](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling)
 
 
 
