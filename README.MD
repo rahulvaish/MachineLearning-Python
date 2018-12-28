@@ -35,7 +35,6 @@ This repository contains Machine Learning Analysis examples.
   * Clean and Prepare Data
   * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
     **Refer above for (Train+Test) pictorial representation** 
-  * Create Sparse Matrix 
   * Apply ML Model
   * Make Prediction
   * Cross Validate
@@ -62,7 +61,7 @@ This repository contains Machine Learning Analysis examples.
   * Load the data[Loan.csv]
   * Column selection in Dataframe
   * Dropping off Useless Columns
-  * Converting Non-Numerical Columns into Numerical Columns
+  * Converting Non-Numerical Columns into Numerical Columns/Sparse
   * Determining Null Values
   * Filtering Data on Threshold Benchmark
   * Handling Missing Values
