@@ -8,7 +8,7 @@ This repository contains Machine Learning Analysis examples.
   - <a href='#data-cleaning'>Data Cleaning</a> 
   - <a href='#data-consolidation'>Data Consolidation</a> 
   - <a href='#mysql-and-pandas'>MySQL and Pandas</a> 
-  - <a href='#pivot-tables'>Pivot Tables</a> 
+  - <a href='#pivot-tables'>Pivot Tables and GroupBy</a> 
 - <a href='#data-visualization'>Data Visualization</a> 
 
   
@@ -88,7 +88,7 @@ This repository contains Machine Learning Analysis examples.
 <hr>
 
 - ###### [Pivot Tables](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/PivotTables)
-   ###### This example explains the concept of Pivot Tables. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/PivotTables)
+   ###### This example explains the concept of Pivot Tables and GroupBy. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/PivotTables)
    * Load the data[schools_with_btoilet.csv/schools_with_gtoilet.csv]
    * Apply Panda's Pivot Method </br>
    ![image](https://user-images.githubusercontent.com/689226/50417338-d9bb2200-084b-11e9-95bc-66772b346dd1.png)
