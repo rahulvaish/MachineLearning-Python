@@ -61,6 +61,8 @@ This repository contains Machine Learning Analysis examples.
   * Load the data[Loan.csv]
   * Column selection in Dataframe
   * Dropping off Useless Columns
+  * Dropping off Rows (on condition)
+  * Type Conversion
   * Converting Non-Numerical Columns into Numerical Columns/Sparse
   * Determining Null Values
   * Filtering Data on Threshold Benchmark
