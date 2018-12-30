@@ -21,8 +21,8 @@ This repository contains Machine Learning Analysis examples.
   * Clean and Prepare Data
   * Create Sparse Matrix 
   * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
-   **Train+Test** looks like:</br>
-    ![image](https://user-images.githubusercontent.com/689226/50421573-f022a700-0866-11e9-8afa-c0d9ddd45ed9.png)
+   **Pictorial Representation:** </br>
+    ![image](https://user-images.githubusercontent.com/689226/50549588-708d4180-0c85-11e9-8a0e-377368b9fa9c.png)
   * Apply ML Model
   * Make Prediction
   * Cross Validate
@@ -34,7 +34,7 @@ This repository contains Machine Learning Analysis examples.
   * Load the data[iris.csv]
   * Clean and Prepare Data
   * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
-    **Refer above for (Train+Test) pictorial representation** 
+    **Refer above for Pictorial representation** 
   * Apply ML Model
   * Make Prediction
   * Cross Validate
@@ -49,7 +49,7 @@ This repository contains Machine Learning Analysis examples.
    * Analyse Correlation
    * Clean and Prepare Data
    * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
-    **Refer above for (Train+Test) pictorial representation** 
+     **Refer above for Pictorial representation**  
    * Apply ML Model
    * Make Prediction
    * Cross Validate
