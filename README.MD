@@ -26,7 +26,8 @@ This repository contains Machine Learning Analysis examples.
   * Apply ML Model
   * Make Prediction
   * Cross Validate
-  * Make Prediction
+  ![image](https://user-images.githubusercontent.com/689226/50550252-f499f600-0c92-11e9-847f-b5c0ef8e7e93.png)
+  * Make Predictions
 <hr>
 
 - ###### [Analysis on IRIS Dataset](https://github.com/rahulvaish/MachineLearning-Python/tree/IRIS)
@@ -38,7 +39,8 @@ This repository contains Machine Learning Analysis examples.
   * Apply ML Model
   * Make Prediction
   * Cross Validate
-  * Make Prediction
+![crossvalidation pictorialrepresentation](https://user-images.githubusercontent.com/689226/50550295-ded90080-0c93-11e9-967d-7c00d82a9705.jpg)
+  * Make Predictions
 
 <hr>
 
@@ -53,7 +55,8 @@ This repository contains Machine Learning Analysis examples.
    * Apply ML Model
    * Make Prediction
    * Cross Validate
-   * Make Prediction   
+     **Refer [above](#analysis-on-titanic-dataset) for Pictorial representation**  
+   * Make Predictions   
 <hr>
 
 - ###### [Data Cleaning](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/DataCleaning)
