@@ -34,7 +34,7 @@ This repository contains Machine Learning Analysis examples.
   * Load the data[iris.csv]
   * Clean and Prepare Data
   * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
-    **Refer above for Pictorial representation** 
+    **Refer [above](#analysis-on-titanic-dataset) for Pictorial representation** 
   * Apply ML Model
   * Make Prediction
   * Cross Validate
@@ -49,7 +49,7 @@ This repository contains Machine Learning Analysis examples.
    * Analyse Correlation
    * Clean and Prepare Data
    * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
-     **Refer above for Pictorial representation**  
+     **Refer [above](#analysis-on-titanic-dataset) for Pictorial representation**  
    * Apply ML Model
    * Make Prediction
    * Cross Validate
