@@ -10,7 +10,7 @@ This repository contains Machine Learning Analysis examples.
   - <a href='#mysql-and-pandas'>MySQL and Pandas</a> 
   - <a href='#pivot-tables'>Pivot Tables and GroupBy</a> 
 - <a href='#data-visualization'>Data Visualization</a> 
-
+- <a href='#feature-selection'>Feature Selection</a> 
   
 <hr>
 
@@ -103,8 +103,7 @@ This repository contains Machine Learning Analysis examples.
 <hr>
 
 - ###### [Data Visualization](https://github.com/rahulvaish/MachineLearning-Python/tree/DataVisualization)
-   ###### This branch contains example which explains how to Visualize data in various forms of Graphs. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/DataVisualization)
-   
+   ###### This example explains how to Visualize data in various forms of Graphs. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/DataVisualization)   
   * Pair Plot
   * Line Graph
   * Histo Graph
@@ -113,6 +112,15 @@ This repository contains Machine Learning Analysis examples.
   * Box Plots
   * Heat Maps
   
-
+- ###### [Feature Selection](https://github.com/rahulvaish/MachineLearning-Python/tree/FeatureSelection)
+   ###### This example explains common methods used for Feature Selection. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/FeatureSelection) 
+  * Load the data[IRIS.csv]
+  * Thresholding on Numerical Features
+  * Thresholding on Missing Values
+  * Thresholding on Binary Feature Variance
+  * Feature Selection from Highly Correlated Features
+  * Feature Selection on Irrelevant Features for Classification-CHI2|ANOVA
+  
+  
 
 
