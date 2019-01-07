@@ -112,6 +112,8 @@ This repository contains Machine Learning Analysis examples.
   * Box Plots
   * Heat Maps
   
+  <hr>
+  
 - ###### [Feature Selection](https://github.com/rahulvaish/MachineLearning-Python/tree/FeatureSelection)
    ###### This example explains common methods used for Feature Selection. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/FeatureSelection) 
   * Load the data[IRIS.csv]
@@ -121,6 +123,6 @@ This repository contains Machine Learning Analysis examples.
   * Feature Selection from Highly Correlated Features
   * Feature Selection on Irrelevant Features for Classification-CHI2|ANOVA
   
-  
+  <hr>
 
 
