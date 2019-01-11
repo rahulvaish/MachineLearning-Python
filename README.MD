@@ -127,7 +127,7 @@ This repository contains Machine Learning Analysis examples.
   
   <hr>
   
-- ###### Decision Trees [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms/DecisionTrees) 
+- ###### [Decision Trees](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms/DecisionTrees) 
    ###### This example explains Decison Trees' concepts with implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms/DecisionTrees) 
   * Load the data[IRIS.csv]
   * Decision Trees Classification using GINI Index
