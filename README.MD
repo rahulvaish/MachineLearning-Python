@@ -10,7 +10,9 @@ This repository contains Machine Learning Analysis examples.
   - <a href='#mysql-and-pandas'>MySQL and Pandas</a> 
   - <a href='#pivot-tables'>Pivot Tables and GroupBy</a> 
 - <a href='#data-visualization'>Data Visualization</a> 
-- <a href='#feature-selection'>Feature Selection</a> 
+- <a href='#feature-selection'>Feature Selection</a>
+- <a href='#ml-algorithms'>ML Algorithms</a>
+  - <a href='#decision-trees'>Decision Trees</a> 
   
 <hr>
 
@@ -125,4 +127,12 @@ This repository contains Machine Learning Analysis examples.
   
   <hr>
 
-
+- ###### [ML Algorithms]
+   ###### Decision Trees. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms/DecisionTrees) 
+  * Load the data[IRIS.csv]
+  * Decision Trees Classification using GINI Index
+  * Decision Trees Classification using Information Gain
+  * Visualizing Decision Trees 
+  * Decision Trees Regression
+  
+  <hr>
