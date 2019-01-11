@@ -126,9 +126,9 @@ This repository contains Machine Learning Analysis examples.
   * Feature Selection on Irrelevant Features for Classification-CHI2|ANOVA
   
   <hr>
-
-- ###### ML Algorithms
-   ###### Decision Trees. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms/DecisionTrees) 
+  
+- ###### Decision Trees. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms/DecisionTrees) 
+   ###### This example explains Decison Trees' concepts with implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms/DecisionTrees) 
   * Load the data[IRIS.csv]
   * Decision Trees Classification using GINI Index
   * Decision Trees Classification using Information Gain
