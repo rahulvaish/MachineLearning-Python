@@ -129,7 +129,7 @@ This repository contains Machine Learning Analysis examples.
   
   <hr>
   
-- ###### Decision Trees 
+- ###### [Decision Trees](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
    ###### This example explains Decison Trees' theory with an implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
   * Load the data[IRIS.csv]
   * Decision Trees Classification using GINI Index
@@ -139,7 +139,7 @@ This repository contains Machine Learning Analysis examples.
   
   <hr>
   
-  - ###### Support Vector Machines
+- ###### [Support Vector Machines](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
    ###### This example explains Decison Trees' basic theory with an implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
   * Load the data[IRIS.csv]
   * Computing SVM
