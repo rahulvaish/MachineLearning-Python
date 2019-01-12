@@ -142,6 +142,7 @@ This repository contains Machine Learning Analysis examples.
 - ###### [Support Vector Machines](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
    ###### This example explains Decison Trees' basic theory with an implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
   * Load the data[IRIS.csv]
-  * Computing SVM
+  * Computing SVM </br>
+  ![image](https://user-images.githubusercontent.com/689226/51068659-5bca8980-1647-11e9-9592-461b9bb25e81.png)
   
   <hr>
