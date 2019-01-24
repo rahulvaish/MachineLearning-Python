@@ -1,4 +1,4 @@
-This repository contains Machine Learning Analysis examples.
+This repository contains Machine Learning Concepts/Analysis and Algorithms examples.
 
 ### Table of Contents
 - <a href='#analysis-on-titanic-dataset'>Analysis-Titanic Dataset</a> 
@@ -13,9 +13,9 @@ This repository contains Machine Learning Analysis examples.
 - <a href='#feature-selection'>Feature Selection</a>
 - <a href='#ml-algorithms'>ML Algorithms</a>
   - <a href='#decision-trees'>Decision Trees</a> 
-  - <a href='#support-vector-machines'>Support Vector Machines</a>  
-  
-  
+  - <a href='#support-vector-machines'>Support Vector Machines</a>
+  - <a href='#k-means-clustering'>K-Means Clustering</a>
+
 <hr>
 
 
@@ -146,3 +146,12 @@ This repository contains Machine Learning Analysis examples.
   ![image](https://user-images.githubusercontent.com/689226/51068659-5bca8980-1647-11e9-9592-461b9bb25e81.png)
   
   <hr>
+  
+  - ###### [K-Means Clustering](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
+   ###### This example explains K-Means Clustering basic theory with an implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
+  * Load the data[IRIS.csv]
+  * Computing K-Means Clustering </br>
+  ![image](https://user-images.githubusercontent.com/689226/51068659-5bca8980-1647-11e9-9592-461b9bb25e81.png)
+  
+  <hr>
+  
