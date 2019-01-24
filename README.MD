@@ -151,7 +151,7 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
    ###### This example explains K-Means Clustering basic theory with an implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
   * Load the data[IRIS.csv]
   * Computing K-Means Clustering </br>
-  ![image](https://user-images.githubusercontent.com/689226/51068659-5bca8980-1647-11e9-9592-461b9bb25e81.png)
-  
+ ![image](https://user-images.githubusercontent.com/689226/51653477-8a3a5400-1fb9-11e9-9a4b-48b57c41ab69.png)
+
   <hr>
   
