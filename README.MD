@@ -160,6 +160,7 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   
 - ###### [FP-Growth](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
    ###### This example explains FP-Growth basic theory with an implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
+  * Install pyfpgrowth [pip install pyfpgrowth]
   * Prepare Dummy Data
   * Computing FP-Growth </br>
   
