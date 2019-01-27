@@ -15,6 +15,7 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   - <a href='#decision-trees'>Decision Trees</a> 
   - <a href='#support-vector-machines'>Support Vector Machines</a>
   - <a href='#k-means-clustering'>K-Means Clustering</a>
+  - <a href='#fp-growth'>FP-Growth</a>
 
 <hr>
 
@@ -155,5 +156,12 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   * Computing K-Means Clustering </br>
  ![image](https://user-images.githubusercontent.com/689226/51653477-8a3a5400-1fb9-11e9-9a4b-48b57c41ab69.png)
 
+  <hr>
+  
+- ###### [FP-Growth](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
+   ###### This example explains FP-Growth basic theory with an implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
+  * Prepare Dummy Data
+  * Computing FP-Growth </br>
+  
   <hr>
   
