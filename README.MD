@@ -197,6 +197,7 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
    ###### This example explains Simple Linear Regression's basic theory with an implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
   * Load the data[SimpleLinearRegression.csv] </br>
   * Computing Simple Linear Regression by logic </br>
+  * Computing Simple Linear Regression using Scikit-learn </br>
   ![image](https://user-images.githubusercontent.com/689226/52331599-993fee00-2a1e-11e9-8c52-eb842eefd392.png)
 
   
