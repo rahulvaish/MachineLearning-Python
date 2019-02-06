@@ -11,7 +11,7 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   - <a href='#pivot-tables'>Pivot Tables and GroupBy</a> 
 - <a href='#data-visualization'>Data Visualization</a> 
 - <a href='#feature-selection'>Feature Selection</a>
-- <a href='#ml-concepts'>ML-Concepts</a>
+- <a href='#ml-concepts'>ML Concepts</a>
   - <a href='#performance-measure-for-classification'>PerformanceMeasure-Classification</a> 
 - <a href='#ml-algorithms'>ML Algorithms</a>
   - <a href='#decision-trees'>Decision Trees</a> 
