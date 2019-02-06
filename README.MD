@@ -20,6 +20,7 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   - <a href='#fp-growth'>FP-Growth</a>
   - <a href='#gausian-naive-bayes'>Gausian Naive Bayes</a>
   - <a href='#simple-linear-regression'>Simple Linear Regression</a>
+  - <a href='#polynomial-linear-regression'>Polynomial Linear Regression</a>
 
 <hr>
 
@@ -199,6 +200,17 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   * Computing Simple Linear Regression by logic </br>
   * Computing Simple Linear Regression using Scikit-learn </br>
   ![image](https://user-images.githubusercontent.com/689226/52331599-993fee00-2a1e-11e9-8c52-eb842eefd392.png)
+
+  
+  <hr>
+  
+- ###### [Polynomial Linear Regression](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
+   ###### This example explains Polynomial Linear Regression's implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
+  * Load the data[DatasetForSimpleAndPolynomialLinearRegression.csv] </br>
+  * Computing Simple Linear Regression using Scikit-learn </br>
+  * Computing Polynomial Linear Regression </br>
+  * Comparision of different Polynomial Linear Regression graphs based on different degrees.
+  ![image](https://user-images.githubusercontent.com/689226/52340059-d3b48580-2a34-11e9-9b6f-15645fc5eaa9.png)
 
   
   <hr>
