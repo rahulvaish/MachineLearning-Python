@@ -16,6 +16,8 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   - <a href='#support-vector-machines'>Support Vector Machines</a>
   - <a href='#k-means-clustering'>K-Means Clustering</a>
   - <a href='#fp-growth'>FP-Growth</a>
+  - <a href='#gausian-naive-bayes'>Gausian Naive Bayes</a>
+  - <a href='#simple-linear-regression'>Simple Linear Regression</a>
 
 <hr>
 
@@ -152,17 +154,36 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
  
 - ###### [K-Means Clustering](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
    ###### This example explains K-Means Clustering basic theory with an implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
-  * Load the data[IRIS.csv]
+  * Load the data[IRIS.csv] </br>
   * Computing K-Means Clustering </br>
+  * Determining K - Elbow Method | Silhouette Method </br>
+  * Mini-Batch K-Means </br>
  ![image](https://user-images.githubusercontent.com/689226/51653477-8a3a5400-1fb9-11e9-9a4b-48b57c41ab69.png)
 
   <hr>
   
 - ###### [FP-Growth](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
    ###### This example explains FP-Growth basic theory with an implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
-  * Install pyfpgrowth [pip install pyfpgrowth]
-  * Prepare Dummy Data
+  * Install pyfpgrowth [pip install pyfpgrowth] </br>
+  * Prepare Dummy Data </br>
   * Computing FP-Growth </br>
+  
+  <hr>
+  
+- ###### [Gausian Naive Bayes](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
+   ###### This example explains Gaussian Naive Bayes basic theory with an implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
+  * Load the data[IRIS.csv] </br>
+  * Computing Gaussian Naive Bayes using scikit-learn </br>
+  * Computing Gaussian Naive Bayes by logic </br>
+  
+  
+  <hr>
+  
+- ###### [Simple Linear Regression](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
+   ###### This example explains Simple Linear Regression's basic theory with an implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
+  * Load the data[SimpleLinearRegression.csv] </br>
+  * Computing Simple Linear Regression by logic </br>
+  
   
   <hr>
   
