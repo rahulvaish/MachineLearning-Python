@@ -11,6 +11,8 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   - <a href='#pivot-tables'>Pivot Tables and GroupBy</a> 
 - <a href='#data-visualization'>Data Visualization</a> 
 - <a href='#feature-selection'>Feature Selection</a>
+- <a href='#ml-concepts'>ML-Concepts</a>
+  - <a href='#performance-measure'>PerformanceMeasure-Classification</a> 
 - <a href='#ml-algorithms'>ML Algorithms</a>
   - <a href='#decision-trees'>Decision Trees</a> 
   - <a href='#support-vector-machines'>Support Vector Machines</a>
@@ -131,6 +133,16 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   * Feature Selection on Irrelevant Features for Classification-CHI2|ANOVA
   
   <hr>
+
+- ###### [PerformanceMeasure-Classification](https://github.com/rahulvaish/MachineLearning-Python/tree/MLConcepts)
+   ###### This example explains Concepts like Confusion Matrix | Accuracy | Precision | Recall | F1-Score. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLConcepts) 
+  * Understanding Confusion Matrix
+  * Understanding Accuracy
+  * Understanding Precision
+  * Understanding Recall
+  * Understanding F1-Score
+  
+  <hr>
   
 - ###### [Decision Trees](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
    ###### This example explains Decison Trees' theory with an implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
@@ -183,7 +195,8 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
    ###### This example explains Simple Linear Regression's basic theory with an implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
   * Load the data[SimpleLinearRegression.csv] </br>
   * Computing Simple Linear Regression by logic </br>
-  
+  ![image](https://user-images.githubusercontent.com/689226/52331599-993fee00-2a1e-11e9-8c52-eb842eefd392.png)
+
   
   <hr>
   
