@@ -149,7 +149,7 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   <hr>
   
 - ###### [Bias-Variance TradeOff](https://github.com/rahulvaish/MachineLearning-Python/blob/MLConcepts/BiasVarianceTradeOff.md)
-   ###### This Sheet explains Concepts of Bias-Variance TradeOff(https://github.com/rahulvaish/MachineLearning-Python/blob/MLConcepts/BiasVarianceTradeOff.md) 
+   ###### This [Sheet](https://github.com/rahulvaish/MachineLearning-Python/blob/MLConcepts/BiasVarianceTradeOff.md)  explains the Concepts of Bias-Variance TradeOff.
  
   <hr>
   
