@@ -12,7 +12,8 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
 - <a href='#data-visualization'>Data Visualization</a> 
 - <a href='#feature-selection'>Feature Selection</a>
 - <a href='#ml-concepts'>ML Concepts</a>
-  - <a href='#performance-measure-for-classification'>PerformanceMeasure-Classification</a> 
+  - <a href='#performance-measure-for-classification'>PerformanceMeasure-Classification</a>
+  - <a href='#bias-variance-tradeoff'>Bias-Variance TradeOff</a>
 - <a href='#ml-algorithms'>ML Algorithms</a>
   - <a href='#decision-trees'>Decision Trees</a> 
   - <a href='#support-vector-machines'>Support Vector Machines</a>
@@ -145,6 +146,11 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   ![image](https://user-images.githubusercontent.com/689226/52333127-6a2b7b80-2a22-11e9-9d1f-037f2f5f8b3d.png)
 
   
+  <hr>
+  
+- ###### [Bias-Variance TradeOff](https://github.com/rahulvaish/MachineLearning-Python/blob/MLConcepts/BiasVarianceTradeOff.md)
+   ###### This Sheet explains Concepts of Bias-Variance TradeOff(https://github.com/rahulvaish/MachineLearning-Python/blob/MLConcepts/BiasVarianceTradeOff.md) 
+ 
   <hr>
   
 - ###### [Decision Trees](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
