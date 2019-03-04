@@ -23,6 +23,7 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   - <a href='#simple-linear-regression'>Simple Linear Regression</a>
   - <a href='#polynomial-linear-regression'>Polynomial Linear Regression</a>
   - <a href='#knn'>KNN</a>
+  - <a href='#logistic-regression'>Logistic Regression</a>
 
 <hr>
 
@@ -228,4 +229,11 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   * Compute KNN </br>
   * Compute KNN on different values of K </br>
   
+   <hr>
+   
+- ###### [Logistic Regression](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
+   ###### This example explains concepts of Logistic Regression Algorithm and its implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
+  * Load the data[IRIS.csv] </br>
+  * Compute Logistic Regression </br>
+     
    <hr>
