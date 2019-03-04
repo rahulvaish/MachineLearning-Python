@@ -22,6 +22,7 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   - <a href='#gausian-naive-bayes'>Gausian Naive Bayes</a>
   - <a href='#simple-linear-regression'>Simple Linear Regression</a>
   - <a href='#polynomial-linear-regression'>Polynomial Linear Regression</a>
+  - <a href='#knn'>KNN</a>
 
 <hr>
 
@@ -221,3 +222,10 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   
   <hr>
   
+- ###### [KNN](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms)
+   ###### This example explains KNN Algorithm and its implementation in Python. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/MLAlgorithms) 
+  * Load the data[IRIS.csv] </br>
+  * Compute KNN </br>
+  * Compute KNN on different values of K </br>
+  
+   <hr>
