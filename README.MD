@@ -6,6 +6,7 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
 - <a href='#analysis-on-house-price-dataset'>Analysis-HousePrice Dataset</a> 
 - <a href='#data-wrangling'>Data Wrangling</a> 
   - <a href='#data-cleaning'>Data Cleaning</a> 
+  - <a href='#pandas-read-from-url'>Pandas Read From URL</a>
   - <a href='#data-consolidation'>Data Consolidation</a> 
   - <a href='#mysql-and-pandas'>MySQL and Pandas</a> 
   - <a href='#pivot-tables'>Pivot Tables and GroupBy</a> 
@@ -88,6 +89,14 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   * Data Replacment-Unary|Binary|Sparse
   
   
+<hr>
+
+- ###### [Pandas Read From URL](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/PandasReadFromURL)
+   ###### This example explains how we can access data present on Cloud(Azure Cloud Storage). [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/PandasReadFromURL)
+  * Storing Data on Cloud (Azure Cloud Storage).
+  * Accessing the Data using Pandas Library.
+
+
 <hr>
 
 - ###### [Data Consolidation](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/DataConsolidation)
