@@ -7,7 +7,8 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
 - <a href='#data-wrangling'>Data Wrangling</a> 
   - <a href='#data-cleaning'>Data Cleaning</a> 
   - <a href='#pandas-read-from-url'>Pandas Read From URL</a>
-  - <a href='#data-consolidation'>Data Consolidation</a> 
+  - <a href='#data-consolidation'>Data Consolidation</a>
+  - <a href='#data-profiling'>Data Profiling</a>
   - <a href='#mysql-and-pandas'>MySQL and Pandas</a> 
   - <a href='#pivot-tables'>Pivot Tables and GroupBy</a> 
 - <a href='#data-visualization'>Data Visualization</a> 
@@ -105,6 +106,15 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   * Appending Dataframe 
   * Joining Dataframe 
   * Merging Dataframe 
+   
+
+<hr>
+
+- ###### [Data Profiling](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/PandasProfiling)
+   ###### This example explains how to do Data Profiling using pandas-profiling library. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/PandasProfiling)
+  * Load the Data [iris.csv] 
+  * Apply profiling
+  * Save the ouput in html
    
 
 <hr>
