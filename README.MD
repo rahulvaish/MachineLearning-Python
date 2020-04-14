@@ -12,7 +12,7 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   - <a href='#mysql-and-pandas'>MySQL and Pandas</a> 
   - <a href='#pivot-tables'>Pivot Tables and GroupBy</a> 
 - <a href='#data-visualization'>Data Visualization</a> 
-- <a href='#feature-selection'>Feature Selection</a>
+- <a href='#feature-engineering'>Feature Engineering</a>
 - <a href='#ml-concepts'>ML Concepts</a>
   - <a href='#performance-measure-for-classification'>PerformanceMeasure-Classification</a>
   - <a href='#bias-variance-tradeoff'>Bias-Variance TradeOff</a>
@@ -146,14 +146,11 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   
   <hr>
   
-- ###### [Feature Selection](https://github.com/rahulvaish/MachineLearning-Python/tree/FeatureSelection)
-   ###### This example explains common methods used for Feature Selection. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/FeatureSelection) 
-  * Load the data[IRIS.csv]
-  * Thresholding on Numerical Features
-  * Thresholding on Missing Values
-  * Thresholding on Binary Feature Variance
-  * Feature Selection from Highly Correlated Features
-  * Feature Selection on Irrelevant Features for Classification-CHI2|ANOVA
+- ###### [Feature Engineering](https://github.com/rahulvaish/MachineLearning-Python/tree/FeatureEngineering)
+   ###### This example explains common methods used for Feature Engineering. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/FeatureEngineering) 
+  * Load the data[mercedesbenz.csv]
+  * Nominal Encoding (One-Hot Normal | One-Hot KDD | Count/Frequncy) 
+  * Ordinal Encoding (System | Custom)
   
   <hr>
 
