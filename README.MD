@@ -1,9 +1,10 @@
 This repository contains Machine Learning Concepts/Analysis and Algorithms examples.
 
 ### Table of Contents
-- <a href='#analysis-on-titanic-dataset'>Analysis-Titanic Dataset</a> 
-- <a href='#analysis-on-iris-dataset'>Analysis-IRIS Dataset</a> 
-- <a href='#analysis-on-house-price-dataset'>Analysis-HousePrice Dataset</a> 
+- <a href='#analysis'>Analysis</a>
+  - <a href='#analysis-on-titanic-dataset'>Analysis-Titanic Dataset</a> 
+  - <a href='#analysis-on-iris-dataset'>Analysis-IRIS Dataset</a> 
+  - <a href='#analysis-on-house-price-dataset'>Analysis-HousePrice Dataset</a> 
 - <a href='#data-wrangling'>Data Wrangling</a> 
   - <a href='#data-cleaning'>Data Cleaning</a> 
   - <a href='#pandas-read-from-url'>Pandas Read From URL</a>
