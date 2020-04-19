@@ -17,6 +17,8 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
 - <a href='#ml-concepts'>ML Concepts</a>
   - <a href='#performance-measure-for-classification'>PerformanceMeasure-Classification</a>
   - <a href='#bias-variance-tradeoff'>Bias-Variance TradeOff</a>
+  - <a href='#curse-of-dimentionality'>Curse-Of-Dimentionality</a>
+  
 - <a href='#ml-algorithms'>ML Algorithms</a>
   - <a href='#decision-trees'>Decision Trees</a> 
   - <a href='#support-vector-machines'>Support Vector Machines</a>
@@ -168,7 +170,12 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   <hr>
   
 - ###### [Bias-Variance TradeOff](https://github.com/rahulvaish/MachineLearning-Python/blob/MLConcepts/BiasVarianceTradeOff.md)
-   ###### This [Sheet](https://github.com/rahulvaish/MachineLearning-Python/blob/MLConcepts/BiasVarianceTradeOff.md)  explains the Concepts of Bias-Variance TradeOff.
+   ###### This [Sheet](https://github.com/rahulvaish/MachineLearning-Python/blob/MLConcepts/BiasVarianceTradeOff.md)  explains the concept of Bias-Variance TradeOff.
+ 
+  <hr>
+  
+- ###### [Curse-Of-Dimentionality](https://github.com/rahulvaish/MachineLearning-Python/blob/MLConcepts/CurseOfDimentionality.MD)
+   ###### This [Sheet](https://github.com/rahulvaish/MachineLearning-Python/blob/MLConcepts/CurseOfDimentionality.MD)  explains the concept of Curse Of Dimentionality.
  
   <hr>
   
