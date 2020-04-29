@@ -1,9 +1,9 @@
 This repository contains Machine Learning Concepts/Analysis and Algorithms examples.
 
 ### Table of Contents
-- <a href='#analysis'>Analysis</a>
+- <a href='#analysis'>Analysis</a>  
   - <a href='#analysis-on-titanic-dataset'>Analysis-Titanic Dataset</a> 
-  - <a href='#analysis-on-iris-dataset'>Analysis-IRIS Dataset</a> 
+  - <a href='#analysis-on-iris-dataset'>Analysis-IRIS Dataset</a>
   - <a href='#analysis-on-house-price-dataset'>Analysis-HousePrice Dataset</a> 
 - <a href='#data-wrangling'>Data Wrangling</a> 
   - <a href='#data-cleaning'>Data Cleaning</a> 
@@ -32,19 +32,19 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
 
 <hr>
 
-
 - ###### [Analysis on Titanic Dataset](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
    ###### This example is analysis on Titanic Dataset. [[source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/Titanic)
   * Load the data[titanic.csv]
   * Clean and Prepare Data
   * Create Sparse Matrix 
-  * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
-   **Pictorial Representation:** </br>
-    ![image](https://user-images.githubusercontent.com/689226/50549588-708d4180-0c85-11e9-8a0e-377368b9fa9c.png)
+  * Split Dataframe as:
+    ![image](https://user-images.githubusercontent.com/689226/80577735-01646080-8a25-11ea-8557-a8cb8abeba5f.png)
+    Representation of Split: </br>
+    ![image](https://user-images.githubusercontent.com/689226/80582594-9b7bd700-8a2c-11ea-85ef-43698b361bb2.png)
   * Apply ML Model
   * Make Prediction
   * Cross Validate
-  ![image](https://user-images.githubusercontent.com/689226/50550252-f499f600-0c92-11e9-847f-b5c0ef8e7e93.png)
+  ![image](https://user-images.githubusercontent.com/689226/80578446-168dbf00-8a26-11ea-890a-d3a33ca1d7c3.png)
   * Make Predictions
 <hr>
 
@@ -52,12 +52,10 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
    ###### This example is analysis on IRIS Dataset. [[source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/IRIS)
   * Load the data[iris.csv]
   * Clean and Prepare Data
-  * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
-    **Refer [above](#analysis-on-titanic-dataset) for Pictorial representation** 
+  * Split Dataframe as [above](#analysis-on-titanic-dataset) for Pictorial representation
   * Apply ML Model
   * Make Prediction
   * Cross Validate
-![crossvalidation pictorialrepresentation](https://user-images.githubusercontent.com/689226/50550295-ded90080-0c93-11e9-967d-7c00d82a9705.jpg)
   * Make Predictions
 
 <hr>
@@ -68,8 +66,7 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
    * Normalize
    * Analyse Correlation
    * Clean and Prepare Data
-   * Split Dataframe as (Train+Test)+(Untouched - Target) </br>
-     **Refer [above](#analysis-on-titanic-dataset) for Pictorial representation**  
+   * Split Dataframe as [above](#analysis-on-titanic-dataset) for Pictorial representation
    * Apply ML Model
    * Make Prediction
    * Cross Validate
