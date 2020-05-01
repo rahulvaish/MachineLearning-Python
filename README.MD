@@ -6,10 +6,10 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
   - <a href='#analysis-on-iris-dataset'>Analysis-IRIS Dataset</a>
   - <a href='#analysis-on-house-price-dataset'>Analysis-HousePrice Dataset</a> 
 - <a href='#data-wrangling'>Data Wrangling</a> 
-  - <a href='#data-cleaning'>Data Cleaning</a> 
+  - <a href='#understanding-dataset'>Understanding Dataset</a> 
   - <a href='#pandas-read-from-url'>Pandas Read From URL</a>
   - <a href='#data-consolidation'>Data Consolidation</a>
-  - <a href='#data-profiling'>Data Profiling</a>
+  - <a href='#pandas-profiling'>Pandas Profiling</a>
   - <a href='#mysql-and-pandas'>MySQL and Pandas</a> 
   - <a href='#pivot-tables'>Pivot Tables and GroupBy</a> 
 - <a href='#data-visualization'>Data Visualization</a> 
@@ -74,20 +74,12 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
    * Make Predictions   
 <hr>
 
-- ###### [Data Cleaning](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/DataCleaning)
-   ###### This example explains various methods of cleaning Data. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/DataCleaning) 
+- ###### [Understanding Dataset](https://github.com/rahulvaish/MachineLearning-Python/blob/DataWrangling/DataCleaning/PandasCrashCourse.ipynb)
+   ###### This example explains basic computing options with Pandas Dataframe/Series [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/blob/DataWrangling/DataCleaning/PandasCrashCourse.ipynb) 
   * Load the data[Loan.csv]
-  * Column selection in Dataframe
-  * Dropping off Useless Columns
-  * Dropping off Rows (on condition)
-  * Type Conversion
-  * Converting Non-Numerical Columns into Numerical Columns/Sparse
-  * Determining Null Values
-  * Filtering Data on Threshold Benchmark
-  * Handling Missing Values
-  * Queries on Dataframe
-  * Split Dataframe Column Values[Example: Date]
-  * Data Replacment-Unary|Binary|Sparse
+  * Undersatnding Types
+  * Column Operations
+  * Row Operations
   
   
 <hr>
@@ -110,7 +102,7 @@ This repository contains Machine Learning Concepts/Analysis and Algorithms examp
 
 <hr>
 
-- ###### [Data Profiling](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/PandasProfiling)
+- ###### [Pandas Profiling](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/PandasProfiling)
    ###### This example explains how to do Data Profiling using pandas-profiling library. [[Source Code]](https://github.com/rahulvaish/MachineLearning-Python/tree/DataWrangling/PandasProfiling)
   * Load the Data [iris.csv] 
   * Apply profiling
